@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hendrik Cziommer</title>
-    <link>https://example.edu/</link>
+    <link>https://hendrik-cziommer.me/</link>
     <description>Recent content on Hendrik Cziommer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.edu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hendrik-cziommer.me/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
