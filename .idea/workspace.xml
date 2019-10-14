@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="003fb74f-bd5f-44b2-86b4-0ccf1b8e08f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="003fb74f-bd5f-44b2-86b4-0ccf1b8e08f8" name="Default Changelist" comment="cv fix">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,8 +56,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571062235107</updated>
-      <workItem from="1571062236181" duration="819000" />
+      <workItem from="1571062236181" duration="1072000" />
     </task>
+    <task id="LOCAL-00001" summary="icon fix">
+      <created>1571063069839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571063069839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="icon fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="icon fix" />
   </component>
 </project>
